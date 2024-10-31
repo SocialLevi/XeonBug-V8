@@ -18,7 +18,7 @@ global.location = "Africa, Kenya, Nairobi"
 
 global.ownernumber = '254769079323'  //creator number
 global.ownername = 'Voskey' //owner name
-global.botname = 'Deomon' //name of the bot
+global.botname = 'DEMON' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
